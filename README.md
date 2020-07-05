@@ -1,3 +1,10 @@
+# I just forked this so I could use the repository in another project without worrying about it changing
+Don't use this
+
+
+
+
+
 # ed25519-dalek [![](https://img.shields.io/crates/v/ed25519-dalek.svg)](https://crates.io/crates/ed25519-dalek) [![](https://docs.rs/ed25519-dalek/badge.svg)](https://docs.rs/ed25519-dalek) [![](https://travis-ci.org/dalek-cryptography/ed25519-dalek.svg?branch=master)](https://travis-ci.org/dalek-cryptography/ed25519-dalek?branch=master)
 
 Fast and efficient Rust implementation of ed25519 key generation, signing, and
